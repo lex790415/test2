@@ -1,5 +1,9 @@
 test statement
 new change
+<<<<<<< HEAD
 hello new branch
 new branch new_f2
+=======
+master branch - added at 3-43
+>>>>>>> master
 
